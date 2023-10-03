@@ -1,6 +1,3 @@
-# HasanAbdulrazaq
-
-<h1><b>Hi There 👋,</b></h1>
-
-<h3>Transforming data into insights is my passion!📊<br>
-The goal is to utilize these insights to drive decision making process.</h3>
+<h3><b>Hi There 👋,</b> my name is <b>Hasan Abdulrazaq.</b><br>
+Transforming data into insights is my passion!📊<br>
+The goal is to utilize these insights to drive decision-making process.</h3>
