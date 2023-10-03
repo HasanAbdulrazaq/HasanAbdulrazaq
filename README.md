@@ -1,5 +1,6 @@
 # HasanAbdulrazaq
 
-Hi There,
-I am an export in <b>Python</b> 
-And I would like to help transform data into insights.
+<h1><b>Hi There 👋,</b></h1>
+
+<h3>Transforming data into insights is my passion!📊</h3>
+<h3>The goal is to utilize these insights to drive decision making process.</h3>
